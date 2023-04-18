@@ -1,9 +1,11 @@
 # Ibrahim-EX4-B
 
 This repo is for a 3d tetris racing game, it's for the second part of exericse 4.
-[Play on itch](https://gamedevbc.itch.io/ibrahim-ex4-b)
-Links for the scripts:
 
+[Play on itch](https://gamedevbc.itch.io/ibrahim-ex4-b)
+
+
+Links for the scripts:
 
 [Car Controller](https://github.com/Game-Dev-Baram-Chahine/Ibrahim-EX4-B/blob/main/Assets/Scripts/CarController.cs)
 
