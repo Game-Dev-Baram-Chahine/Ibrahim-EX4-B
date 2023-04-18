@@ -1,6 +1,6 @@
 # Ibrahim-EX4-B
 
-This repo is for a 3d tetris racing game, it's for the second part of exericse 4.
+This repository is for a 3D tetris racing game, it's for the second part of exericse 4.
 
 [Play on itch](https://gamedevbc.itch.io/ibrahim-ex4-b)
 
